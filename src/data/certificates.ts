@@ -1,0 +1,51 @@
+export const certificates = [
+  {
+    id: 1,
+    year: "2024",
+    credential: "AWS-SAA-2024-001",
+    transIdx: 0,
+    image: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=800&h=600&fit=crop",
+  },
+  {
+    id: 2,
+    year: "2023",
+    credential: "GCP-PCA-2023-047",
+    transIdx: 1,
+    image: "https://images.unsplash.com/photo-1639762681057-408e52192e55?w=800&h=600&fit=crop",
+  },
+  {
+    id: 3,
+    year: "2023",
+    credential: "META-FE-2023-112",
+    transIdx: 2,
+    image: "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=800&h=600&fit=crop",
+  },
+  {
+    id: 4,
+    year: "2024",
+    credential: "CKA-2024-089",
+    transIdx: 3,
+    image: "https://images.unsplash.com/photo-1667372393119-3d4c48d07fc9?w=800&h=600&fit=crop",
+  },
+  {
+    id: 5,
+    year: "2023",
+    credential: "NODEJP-2023-034",
+    transIdx: 4,
+    image: "https://images.unsplash.com/photo-1627398242454-45a1465c2479?w=800&h=600&fit=crop",
+  },
+  {
+    id: 6,
+    year: "2024",
+    credential: "COMP-SEC-2024-056",
+    transIdx: 5,
+    image: "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=800&h=600&fit=crop",
+  },
+  {
+    id: 7,
+    year: "2024",
+    credential: "CEH-2024-023",
+    transIdx: 6,
+    image: "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=800&h=600&fit=crop",
+  },
+]
